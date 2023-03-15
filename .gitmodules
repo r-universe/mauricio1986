@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gmnl"]
+	path = gmnl
+	url = https://github.com/mauricio1986/gmnl
+	shallow = true
+	registered = true
 [submodule "Rchoice"]
 	path = Rchoice
 	url = https://github.com/mauricio1986/rchoice

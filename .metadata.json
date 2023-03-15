@@ -1,5 +1,9 @@
 [
   {
+    "package": "gmnl",
+    "oncran": true
+  },
+  {
     "package": "Rchoice",
     "oncran": true
   }
